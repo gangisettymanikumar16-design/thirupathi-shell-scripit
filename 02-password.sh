@@ -2,7 +2,7 @@
 
 echo "enter the password"
 read pass
-if[$pass=="password"]
+if["$pass" = "password"]
 then
  echo "password is correct"
 else
