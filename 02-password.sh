@@ -1,11 +1,11 @@
 #!/bin/bash
 
-echo "enter the password"
+echo "enter the password:"
 read pass
 if["$pass" = "password"]
 then
- echo "password is correct"
+ echo "password is correct."
 else
- echo "incorrect password try again"
+ echo "incorrect password try again."
 fi
 
