@@ -7,5 +7,5 @@ then
 echo "the  number is even."
 else
 echo "the  number is odd."
-if
+fi
 
